@@ -1,0 +1,35 @@
+
+.heading{
+    width :100%;
+    text-align:left;
+    font-weight: bolder;
+    height: 40px;
+
+
+}
+.heading h3{
+ display: inline;
+ font-weight: bold;
+}
+
+.heading button{
+    float: right;
+    border:2px solid white;
+    font-weight: bold;
+
+
+}
+
+
+#button_play{
+    font-size: 22px;
+ font-weight: bold;
+
+}
+
+#status{
+font-size: 25px;
+font-weight: bold;
+
+}
+
